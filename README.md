@@ -38,7 +38,7 @@ Hello my name is Rama Fajar Fadhillah  👨‍💻, you can call me Rama or Faja
 
 ---
 ### My Github Profile
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramarff7&show_icons=true&hide_border=true)](https://github.com/ramarff)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramarff&show_icons=true&hide_border=true)](https://github.com/ramarff)
 ---
 
 
