@@ -18,7 +18,9 @@ Hello my name is Rama Fajar Fadhillah  👨‍💻, you can call me Rama or Faja
 
 📫 How to reach me        : You can contact me at the contact I wrote on this profile
 
-📚 I want to learn        : <img src="https://img.shields.io/badge/-NextJs-fff?style=flat&logo=next.js&logoColor=000">
+📚 I want to learn        : <img src="https://img.shields.io/badge/-NextJs-fff?style=flat&logo=next.js&logoColor=000"> and <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
+
+---
 
 ### Tech and & Tools Preference 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -33,3 +35,10 @@ Hello my name is Rama Fajar Fadhillah  👨‍💻, you can call me Rama or Faja
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+
+---
+### My Github Profile
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramarff7&show_icons=true&hide_border=true)](https://github.com/ramarff)
+---
+
+
